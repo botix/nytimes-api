@@ -1,5 +1,6 @@
 # nytimes-api
 
-#Install dependencies using npm or yarn
-#npm/yarn start
-
+To run:
+  - clone repo
+  - run: npm install OR yarn install
+  - run: yarn start OR npm start
